@@ -5,7 +5,7 @@
   <groupId>com.mysample</groupId>
   <artifactId>sbthymeleaflayout</artifactId>
   <version>1.0.1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>sbthymeleaflayout</name>
   <url>http://maven.apache.org</url>
